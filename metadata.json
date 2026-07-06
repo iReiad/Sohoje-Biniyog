@@ -1,0 +1,6 @@
+{
+  "name": "আমার বিনিয়োগ",
+  "description": "বাংলাদেশের প্রথম এআই-চালিত বিনিয়োগ ও পোর্টফোলিও ট্র্যাকিং অ্যাপ (DSE ও CSE)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
